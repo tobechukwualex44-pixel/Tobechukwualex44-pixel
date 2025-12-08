@@ -4,6 +4,7 @@
 
 
 - <b>Active Directory Home Lab
+ - [PracitingActive directory in VM](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Cloud computing  Home Lab
 - <b>Ticketing System Home Lab 
   
