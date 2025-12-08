@@ -4,7 +4,7 @@
 
 
 - <b>Active Directory Home Lab
- - [PracitingActive directory in VM](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Praciting Active directory in VM](https://github.com/tobechukwualex44-pixel/Active-directory-Lab/edit/main/README.md)
 - <b>Cloud computing  Home Lab
 - <b>Ticketing System Home Lab 
   
