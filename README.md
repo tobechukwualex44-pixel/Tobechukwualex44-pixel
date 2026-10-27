@@ -34,7 +34,26 @@ It matters because early-stage AI companies need clear, lightweight compliance s
 - <b>Meridian Hospital Simulated MINI GAP analysis Against Essensial Eight controls project:  
   - I built a gap analysis for an organization by comparing its current controls against required Essessial Eight standards and identifying what was missing, weak, or needed improvement. This project shows my ability compare an organization’s current controls against required standards and identify what is missing. It matters because gap analysis is one of the most important parts of GRC, it helps leadership see compliance issues early and plan fixes before they become bigger problems.
 - [Pratical Enterprise Policy, Standard and procedues project](https://github.com/tobechukwualex44-pixel/Mini-GAP-ANALYSIS-FOR-MERIDIAN-HOSPITAL-AGAISNT-ESSETIAL-EAIGHT )
- 
+
+
+
+ - <b>Cloud Identity and Access Management Lab (Microsoft Entra ID)</b>
+  - I built an identity and access management lab in Microsoft Entra ID and Azure. I created users, set up a dynamic group that adds people automatically based on a rule, and assigned the Reader role at resource group level so access followed the principle of least privilege. I also turned on Security Defaults to require MFA and tested an offboarding scenario by blocking a user's sign-in. This project shows that I understand how organisations control who gets access to what, and how to remove that access quickly when someone leaves. It matters because weak identity controls are one of the most common causes of security incidents.
+- [Cloud Identity and Access Management Lab](https://github.com/tobechukwualex44-pixel/Azure-ad-iam-lab)
+
+
+
+- <b>Azure Cloud Security Risk Assessment</b>
+  - I assessed the security of an Azure environment using Microsoft Defender for Cloud and built a scored risk register based on likelihood and impact. I found three risks: publicly exposed storage, a single subscription Owner, and missing MFA protection. I remediated two of them, recorded the residual risk after each fix, and kept the single-Owner risk open with a clear explanation. This project shows that I can find cloud security weaknesses, rate them, fix what can be fixed, and be honest about what remains. It matters because businesses need to know where they are most exposed and what to fix first.
+- [Azure Cloud Security Risk Assessment](https://github.com/tobechukwualex44-pixel/Azure-Cloude-Risk-Assessment-)
+
+
+
+- <b>Linux Log Analysis and Automation</b>
+  - I created a simulated authentication log and used Linux command-line tools (grep, cut, sort and uniq) to find a brute-force attack pattern: one IP address repeatedly failing logins against privileged accounts such as root and admin. I then wrote a Bash script to automate the analysis so it can be repeated on any log, and uploaded the results into Splunk Enterprise. The next step is building a Splunk chart of failed attempts per IP. This project shows that I can investigate logs, spot suspicious activity, and automate routine security analysis. It matters because security teams rely on log analysis to detect attacks early.
+- [Linux Log Analysis and Automation](https://github.com/tobechukwualex44-pixel/Linux-log-Analysis-and-Automation-) 
+
+
 <h2> 📁Certification </h2>     
 
 - CSI2 cybersecurity certified 
