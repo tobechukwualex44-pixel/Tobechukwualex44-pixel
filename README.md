@@ -1,7 +1,11 @@
-<h1>Hi, I'm Charles! <br/><a 
+<h1>Hi, I'm Charles Alex! <br/><a 
 
-<h2> I am an Entry level Governance, cyber Risk and compliance Analyst. 
- this portfolio demonstrate my ability to identify cyber Risk, Map Risk to controls, Design and review Enterprise policy, Assess control Gaps and communicate my finding clearly :</h2>
+<h2> an Entry level GRC Analyst | Cyber Risk | Cloud Security & Identity
+
+i hold B.Sc. Mathematics graduate with an analytical, evidence-first approach to cyber risk. My projects cover identifying cyber risk, mapping , designing and reviewing enterprise policy, assessing control gaps, and communicating findings.
+
+**Tools:** Microsoft Entra ID · Azure · Defender for Cloud · Splunk · Linux · Bash · ServiceNow
+Open to GRC, cyber risk and compliance roles. :</h2>
 
 <h2> 🛠️ BEST PROJECTS  </h2> 
 
